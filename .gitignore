@@ -1,0 +1,22 @@
+# Composer
+/vendor/
+/composer.lock
+
+# Node
+/node_modules/
+/package-lock.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# WordPress uploads (not needed in plugin repo)
+wp-content/uploads/
+
+# IDE
+.idea/
+.vscode/
+*.code-workspace
